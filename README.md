@@ -1,4 +1,4 @@
-Basic Algorithms - Spring 2017
+Basic Algorithms - Spring 2018
 
 Prompt:
 
